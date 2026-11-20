@@ -1,6 +1,6 @@
 # 🌹 30 Days With You — Personalized 1-Month Anniversary Web App
 
-A romantic, luxury interactive anniversary web application created for **Jemimah Adeyinka Aderibigbe (Meema baby / Suki)** from **Ayanfe (GeeOfficial)**, celebrating your first month together.
+A romantic, luxury interactive anniversary web application, celebrating your first month together.
 
 Built with **React**, **TypeScript**, **Tailwind CSS**, **Framer Motion**, and **react-pageflip**.
 
@@ -42,14 +42,10 @@ The application features a cinematic, continuous audio system with automatic cro
    - **Physics-based opening mechanics**: Calibrated cubic-bezier easing curves unfold the top flap (`rotateX(-180deg)`), accompanied by a discrete paper-slide and seal-break audio effect, sliding the folded booklet upward.
 
 3. **Interactive Romantic Q&A Chatbox**:
-   - Immediately following envelope opening, a luxury dark glassmorphism chatbox appears from *"Ayanfe (Ur Handsome Baby) ❤️"*.
-   - Starts with: *"hey there from ur handsome baby Ayanfe 🥰"*.
-   - Interactive Q&A prompts asking how dating has felt over the past month.
-   - Meema selects from thoughtfully crafted response options; Ayanfe replies with personalized sweet reactions and typing indicators.
-   - Concludes with Ayanfe's message and a grand glowing button: **"Open My Anniversary Letter 📖"**.
+
 
 4. **Multi-Page Flipbook Experience (`react-pageflip`)**:
-   - **Cover Page**: "30 Days With You — For Jemimah Adeyinka Aderibigbe — Month One".
+   - **Cover Page**: "30 Days With You — For ? — Month One".
    - **Page 1 (The Beginning)**: "My Dearest Meema baby..." — recounting how natural everything feels and how she became your favorite person.
    - **Page 2 (The Little Things)**: "What I Adore About You" — celebrating her laugh, warmth, and effortless grace.
    - **Page 3 (How You Make Me Feel)**: "My Safe Space" — sharing the peace, real connection, and happiness of the past 4 weeks.
